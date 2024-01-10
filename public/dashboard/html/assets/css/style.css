@@ -1,0 +1,19 @@
+.col-lg-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.card-body {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.page-wrapper {
+    margin-top: 33px;
+}
+
+.input-group-text {
+    margin-left:0.2rem;
+    font-size: 0.84rem;
+}

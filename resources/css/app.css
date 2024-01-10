@@ -1,0 +1,13 @@
+/* Stil dosyanıza ekle */
+.valid-product {
+    border: 1px solid green;
+}
+
+.invalid-product {
+    border: 1px solid red;
+}
+
+
+.asd {
+    border: 1px solid red;
+}
